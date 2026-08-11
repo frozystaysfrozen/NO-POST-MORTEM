@@ -115,4 +115,6 @@ We all need some chaos in our lives
 
 You are free to use, study, modify, and redistribute this software, provided that your redistribution complies with the terms of the GPLv3.
 
-See [
+See [LICENSE](https://github.com/frozystaysfrozen/NO-POST-MORTEM/blob/main/LICENSE) for more information
+
+Copyright (C) frozystaysfrozen
