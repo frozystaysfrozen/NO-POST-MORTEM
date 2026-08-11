@@ -86,8 +86,9 @@ We all need some chaos in our lives
 - [x] Terminal interface
 - [ ] Fairness (will never be implemented)
 
-### 1.0.1 - we need some color, and coolant
+### 1.0.1 - we need some color, and coolant, and a bit of conversion (ccc)
 
+- [ ] A neat .exe file so that you don't need Python anymore
 - [ ] Color in the terminal
 - [ ] AIO/fans errors
 - [ ] Temperature in decimals
