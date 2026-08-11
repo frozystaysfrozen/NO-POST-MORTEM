@@ -94,7 +94,7 @@ We all need some chaos in our lives
 - [ ] Random things that can happen to make the game less fair (e.g. the PSU exploding and ending your run if the voltage is too high)
 - [ ] Difficulty settings (probably)
 
-### 1.0.3 - Quality of Life
+### 1.0.3 - Quality of Life, or Quantity of Death
 - [ ] RTC Fixing
 - [ ] Proper leap-year handling
 - [ ] Diagnostics consistency
