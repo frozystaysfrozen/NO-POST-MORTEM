@@ -30,7 +30,7 @@ We all need some chaos in our lives
   HDDs have rotational speeds, mechanical events, read errors, and, under sufficiently terrible circumstances, **clicking**.
 
 * **CMOS/RTC corruption**
-  Your computer's clock may decide that the current year is somewhere between 2026 and the Bronze Age.
+  Your computer's clock may decide that the current year is somewhere between 2023 and the Bronze Age.
 
 * **Salvage system**
   Recover fragments of diagnostic information from a system that probably shouldn't still be talking to you.
@@ -69,3 +69,39 @@ We all need some chaos in our lives
 * **Terminal-based interface**
   Currently powered by Python, `print()`, `input()`, and an irresponsible quantity of `pause()` calls.
 
+## Roadmap
+
+### 1.0.0 - Base Game
+
+- [x] Procedural hardware generation
+- [x] Seeds
+- [x] Hardware failures (for everything except motherboard)
+- [x] Salvage + Repair system
+- [x] Inspection
+- [x] Kernel panics
+- [x] Terminal interface
+- [ ] Fairness (will never be implemented)
+
+### 1.0.1 - we need some color, and coolant
+
+- [ ] Color in the terminal
+- [ ] AIO/fans errors
+- [ ] Temperature in decimals
+
+### 1.0.2 - Cursed stuff and cursed curse-meter regulations and more cursed randomness
+
+- [ ] A new shitload of cursed seeds
+- [ ] Random things that can happen to make the game less fair (e.g. the PSU exploding and ending your run if the voltage is too high)
+- [ ] Difficulty settings (probably)
+
+### 1.0.3 - Quality of Life
+- [ ] RTC Fixing
+- [ ] Proper leap-year handling
+- [ ] Diagnostics consistency
+- [ ] Realistic month lengths
+- [ ] Command aliases (e.g. '?' for 'help' and 'diagnostics' for 'diag')
+- [ ] Version and credits information command
+- [ ] And more...
+
+### 1.1.0 - To be announced
+- [ ] To be announced
