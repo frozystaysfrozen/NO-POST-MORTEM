@@ -87,12 +87,14 @@ We all need some chaos in our lives
 - [ ] Color in the terminal
 - [ ] AIO/fans errors
 - [ ] Temperature in decimals
+- [ ] Put you into a freezer thats inhabited with eldritch horrors (for cooling purposes)
 
 ### 1.0.2 - Cursed stuff and cursed curse-meter regulations and more cursed randomness
 
 - [ ] A new shitload of cursed seeds
 - [ ] Random things that can happen to make the game less fair (e.g. the PSU exploding and ending your run if the voltage is too high)
 - [ ] Difficulty settings (probably)
+- [ ] Get you a girlfriend (which will never happen)
 
 ### 1.0.3 - Quality of Life, or Quantity of Death
 - [ ] RTC Fixing
@@ -101,7 +103,16 @@ We all need some chaos in our lives
 - [ ] Realistic month lengths
 - [ ] Command aliases (e.g. '?' for 'help' and 'diagnostics' for 'diag')
 - [ ] Version and credits information command
+- [x] Shove an asparagus down your esophagus /j
 - [ ] And more...
 
 ### 1.1.0 - To be announced
-- [ ] To be announced
+- [x] To be announced
+
+## License
+
+(NO) POST-MORTEM is free and open-source software licensed under the GNU General Public License v3.0 (GPLv3).
+
+You are free to use, study, modify, and redistribute this software, provided that your redistribution complies with the terms of the GPLv3.
+
+See [
