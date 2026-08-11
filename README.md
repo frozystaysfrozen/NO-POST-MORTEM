@@ -9,6 +9,10 @@ Well, if that isn't your style: you're a simpleton.
 
 We all need some chaos in our lives
 
+## Dependencies
+* Python 3.x
+* A working terminal (e.g. Windows PowerShell or sumn)
+
 ## Features
 
 * **Procedurally generated PCs**
