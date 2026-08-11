@@ -82,17 +82,16 @@ We all need some chaos in our lives
 - [x] Terminal interface
 - [ ] Fairness (will never be implemented)
 
-### 1.0.1 - we need some color, and coolant, and a bit of conversion (ccc)
+### 1.0.1 - we need coolant, and a bit of conversion (cc)
 
 - [x] A neat .exe file so that you don't need Python anymore
-- [ ] Color in the terminal
 - [ ] AIO/fans errors
 - [ ] Temperature in decimals
 - [ ] Put you into a freezer thats inhabited with eldritch horrors (for cooling purposes)
 
 ### 1.0.2 - Cursed stuff and cursed curse-meter regulations and more cursed randomness
 
-- [ ] A new shitload of cursed seeds
+- [ ] A new shitload of cursed/custom seeds
 - [ ] Random things that can happen to make the game less fair (e.g. the PSU exploding and ending your run if the voltage is too high)
 - [ ] Difficulty settings (probably)
 - [ ] Get you a girlfriend (which will never happen)
