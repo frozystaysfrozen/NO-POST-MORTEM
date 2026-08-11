@@ -9,10 +9,6 @@ Well, if that isn't your style: you're a simpleton.
 
 We all need some chaos in our lives
 
-## Dependencies
-* Python 3.x
-* A working terminal (e.g. Windows PowerShell or sumn)
-
 ## Features
 
 * **Procedurally generated PCs**
@@ -88,7 +84,7 @@ We all need some chaos in our lives
 
 ### 1.0.1 - we need some color, and coolant, and a bit of conversion (ccc)
 
-- [ ] A neat .exe file so that you don't need Python anymore
+- [x] A neat .exe file so that you don't need Python anymore
 - [ ] Color in the terminal
 - [ ] AIO/fans errors
 - [ ] Temperature in decimals
