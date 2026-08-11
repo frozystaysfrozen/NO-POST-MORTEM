@@ -118,3 +118,5 @@ You are free to use, study, modify, and redistribute this software, provided tha
 See [LICENSE](https://github.com/frozystaysfrozen/NO-POST-MORTEM/blob/main/LICENSE) for more information
 
 Copyright (C) frozystaysfrozen
+
+The (C) is mine now >:3 /j
