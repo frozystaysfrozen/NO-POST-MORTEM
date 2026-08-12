@@ -63,9 +63,6 @@ We all need some chaos in our lives
 * **The `order_ram` command**
   No.
 
-* **Cursed events**
-  Some machines are simply beyond reasonable explanation.
-
 * **Terminal-based interface**
   Currently powered by Python, `print()`, `input()`, and an irresponsible quantity of `pause()` calls.
 
