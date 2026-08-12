@@ -69,11 +69,6 @@ We all need some chaos in our lives
 * **Terminal-based interface**
   Currently powered by Python, `print()`, `input()`, and an irresponsible quantity of `pause()` calls.
 
-
-## Modding
-
-Open an issue/DM me on Discord (frozystaysfrozen) in regards to modding (NO) POST-MORTEM, and I'll give you the modding resources ((NO) POST-MORTEM.py and maybe Python 3.x if you don't have it already)
-
 ## Roadmap
 
 ### 1.0.0 - Base Game
@@ -114,6 +109,19 @@ Open an issue/DM me on Discord (frozystaysfrozen) in regards to modding (NO) POS
 ### 1.1.0 - To be announced
 - [x] To be announced
 
+
+## Modding
+
+Want to mod **(NO) POST-MORTEM**?
+
+Open an issue on GitHub or DM me on Discord (`frozystaysfrozen`) regarding modding, and I'll provide the modding resources.
+
+The resources may include:
+
+- `(NO) POST-MORTEM.py`
+- Python 3.x, if you don't already have it installed
+- Any other resources required for modding
+
 ## License
 
 (NO) POST-MORTEM is free and open-source software licensed under the GNU General Public License v3.0 (GPLv3).
@@ -125,3 +133,33 @@ See [LICENSE](https://github.com/frozystaysfrozen/NO-POST-MORTEM/blob/main/LICEN
 Copyright (C) 2026 frozystaysfrozen
 
 The (C) is mine now >:3 /j
+
+Have fun breaking Win-
+
+===========================
+      KERNEL PANIC
+===========================
+
+A fatal error occured
+
+Error code: 0x000069420
+
+---------------------------
+
+You can't be serious.
+
+Just no.
+
+WHY NOW OUT OF ALL TIMES TO ISSUE A KERNEL PANIC
+
+
+
+
+
+
+
+
+
+Tailored with love and passion (and impatience and calm),
+
+- frozystaysfrozen
