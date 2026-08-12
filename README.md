@@ -136,26 +136,24 @@ The (C) is mine now >:3 /j
 
 Have fun breaking Win-
 
-===========================
-      KERNEL PANIC
-===========================
+A fatal error occurred
 
-A fatal error occured
-
-Error code: 0x000069420
+Error code: 0x0069420
 
 ---------------------------
 
 You can't be serious.
 
-Just no.
-
-WHY NOW OUT OF ALL TIMES TO ISSUE A KERNEL PANIC
+HOW can a README even CRASH WTFFF??
 
 
 
 
+*pant pant pant*
 
+*breaks desk*
+
+*calms down*
 
 
 
