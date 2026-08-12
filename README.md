@@ -69,6 +69,11 @@ We all need some chaos in our lives
 * **Terminal-based interface**
   Currently powered by Python, `print()`, `input()`, and an irresponsible quantity of `pause()` calls.
 
+
+## Modding
+
+Open an issue/DM me on Discord (frozystaysfrozen) in regards to modding (NO) POST-MORTEM, and I'll give you the modding resources ((NO) POST-MORTEM.py and maybe Python 3.x if you don't have it already)
+
 ## Roadmap
 
 ### 1.0.0 - Base Game
@@ -117,6 +122,6 @@ You are free to use, study, modify, and redistribute this software, provided tha
 
 See [LICENSE](https://github.com/frozystaysfrozen/NO-POST-MORTEM/blob/main/LICENSE) for more information
 
-Copyright (C) frozystaysfrozen
+Copyright (C) 2026 frozystaysfrozen
 
 The (C) is mine now >:3 /j
