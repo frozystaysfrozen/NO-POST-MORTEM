@@ -82,7 +82,7 @@ We all need some chaos in our lives
 ### 1.0.1 - we need coolant, and a bit of conversion (cc)
 
 - [x] A neat .exe file so that you don't need Python anymore
-- [ ] AIO/fans errors
+- [x] AIO/fans errors
 - [ ] Temperature in decimals
 - [ ] Put you into a freezer thats inhabited with eldritch horrors (for cooling purposes)
 
