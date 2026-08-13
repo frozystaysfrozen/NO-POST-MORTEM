@@ -83,8 +83,8 @@ We all need some chaos in our lives
 
 - [x] A neat .exe file so that you don't need Python anymore
 - [x] AIO/fans errors
-- [ ] Temperature in decimals
-- [ ] Put you into a freezer thats inhabited with eldritch horrors (for cooling purposes)
+- [x] Temperature in decimals
+- [x] Put you into a freezer thats inhabited with eldritch horrors (for cooling purposes)
 
 ### 1.0.2 - Cursed stuff and cursed curse-meter regulations and more cursed randomness
 
