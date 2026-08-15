@@ -90,7 +90,7 @@ We all need some chaos in our lives
 
 - [ ] A new shitload of cursed/custom seeds
 - [ ] Random things that can happen to make the game less fair (e.g. the PSU exploding and ending your run if the voltage is too high)
-- [ ] Difficulty settings (probably)
+- [ ] New achievements
 - [ ] Get you a girlfriend (which will never happen)
 
 ### 1.0.3 - Quality of Life, or Quantity of Death
